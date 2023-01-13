@@ -2,4 +2,4 @@
 
 Angular 14 - Facebook Authentication Tutorial with Example
 
-Documentation coming soon!!
+Documentation at https://jasonwatmore.com/post/2023/01/13/angular-14-facebook-authentication-tutorial-with-example
